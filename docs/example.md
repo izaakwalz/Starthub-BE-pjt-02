@@ -2,7 +2,7 @@
 
 ## Example
 
-<b>Helper Function:</b> <a href="./docs/Backend-Frontend.md">functions</a>
+<b>Helper Function:</b> <a href="./Backend-Frontend.md">functions</a>
 
 <b>in your index.html file</b> add the following script to it
 
