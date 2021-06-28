@@ -81,3 +81,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 - ###### <a href="./docs/Readme.md">Routes Docs</a>
 - <a href="http://localhost:4000">StartHub</a>
+
+## example
+
+- ###### how to connect to the backend to the frontend <a href="./docs/example.md">Basic example</a>

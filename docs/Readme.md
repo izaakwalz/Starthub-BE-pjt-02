@@ -2,11 +2,11 @@
 
 ## Main Route
 
-- ##### default route - method `GET` http://localhost:3000/api/v1/ : access public
+- ##### default route - method `GET` https://starthubzuri.herokuapp.com/api/v1/ : access public
 
 ## Auth Routes
 
-- ##### sign up route - method `POST` http://localhost:3000/api/v1/auth/sign-up : access public
+- ##### sign up route - method `POST` https://starthubzuri.herokuapp.com/api/v1/auth/sign-up : access public
 
 ###### example
 
@@ -32,7 +32,7 @@
 }
 ```
 
-- ##### login route - method `POST` http://localhost:3000/api/v1/auth/sign-in : access public
+- ##### login route - method `POST` https://starthubzuri.herokuapp.com/api/v1/auth/sign-in : access public
 
 ###### example
 
@@ -58,7 +58,7 @@
 
 ## User Routes
 
-- #### user profile - method `GET` http://localhost:3000/api/v1/users/profile : access private
+- #### user profile - method `GET` https://starthubzuri.herokuapp.com/api/v1/users/profile : access private
 
 ### dsescription: get user specific info
 
@@ -75,7 +75,7 @@
    value `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.`
 ```
 
-- #### user projects - method `GET` http://localhost:3000/api/v1/users/projects : access private
+- #### user projects - method `GET` https://starthubzuri.herokuapp.com/api/v1/users/projects : access private
 
 ### dsescription: get all users projects
 
